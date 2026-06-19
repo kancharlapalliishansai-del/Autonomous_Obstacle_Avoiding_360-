@@ -2,7 +2,7 @@
 Arduino-based autonomous vehicle with full-perimeter (360°) situational awareness. Utilizes 4x HC-SR04 ultrasonic sensors for advanced obstacle detection and priorities-based navigation. Built on Arduino Mega + L298N driver.
 # 🏎️ 360° Autonomous Sensor Vehicle
 
-![Autonomous Sensor Vehicle Logo](path/to/your/image_0.png)
+![Autonomous Sensor Vehicle Logo](OBSRV.png)
 
 ## Overview
 This repository contains the firmware and documentation for an **Autonomous Sensor Vehicle**. The primary objective was to engineer a robot capable of complete situational awareness. It is equipped with four HC-SR04 ultrasonic sensors, oriented 90 degrees apart (Front, Back, Left, Right), providing full-perimeter detection and priority-based navigation.
