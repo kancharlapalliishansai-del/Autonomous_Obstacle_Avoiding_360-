@@ -73,4 +73,3 @@ The system uses a variable speed, smooth-braking firmware structure to manage in
 ### **Images**
 ![Autonomous Sensor Vehicle Logo](OBSFV.png)
 ![Autonomous Sensor Vehicle Logo](OBSUV.png)
-![Autonomous Sensor Vehicle Logo](OBSSSV.png)
